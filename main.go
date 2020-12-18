@@ -1,9 +1,6 @@
 package main
-asd
-import (
 	"fmt"
 
-	"github.com/PIPE1303/First/calculadora"
 )
 
 func main() {
